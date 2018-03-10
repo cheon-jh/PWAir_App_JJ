@@ -1,11 +1,12 @@
 <template>
   <div class="">
-    LoginHeader
+    <h1>PWAir</h1>
   </div>
 </template>
 
 <script>
 export default {
+
 }
 </script>
 
